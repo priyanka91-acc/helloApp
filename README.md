@@ -1,0 +1,5 @@
+helloApp
+======== 
+
+sample hello app for deploying on docker container
+war file to be deployed
